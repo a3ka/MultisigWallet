@@ -1,0 +1,11 @@
+{
+  "name": "MultisigWallet",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:a3ka/MultisigWallet.git",
+  "author": "Oleksandr Kalynovskyy <alex.kurz@protonmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@openzeppelin/test-helpers": "^0.5.15"
+  }
+}
